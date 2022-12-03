@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyrs", "Kyrs\Kyrs.csproj", "{1579147C-20C7-41AC-B7C1-F11A7E11653C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1579147C-20C7-41AC-B7C1-F11A7E11653C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1579147C-20C7-41AC-B7C1-F11A7E11653C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1579147C-20C7-41AC-B7C1-F11A7E11653C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1579147C-20C7-41AC-B7C1-F11A7E11653C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

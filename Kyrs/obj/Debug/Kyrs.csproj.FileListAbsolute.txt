@@ -1,0 +1,11 @@
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\bin\Debug\Kyrs.exe.config
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\bin\Debug\Kyrs.exe
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\bin\Debug\Kyrs.pdb
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.csproj.AssemblyReference.cache
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.csproj.SuggestedBindingRedirects.cache
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.Properties.Resources.resources
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.csproj.GenerateResource.cache
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.csproj.CoreCompileInputs.cache
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.exe
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.pdb
+C:\Users\atomv\RiderProjects\Kyrs\Kyrs\obj\Debug\Kyrs.Form1.resources
